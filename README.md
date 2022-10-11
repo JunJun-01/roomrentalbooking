@@ -25,3 +25,10 @@ unless an exit command is issued
 
 The program submitted should compile and be executed without errors. Besides, validation should 
 be done for each entry from the users in order to avoid logical errors.
+
+![image](https://user-images.githubusercontent.com/74132232/195013895-0df60f45-8290-4f15-ab44-264c0c7865b3.png)
+![image](https://user-images.githubusercontent.com/74132232/195013935-ad47d3de-7fec-4090-ab46-c45b3221bac3.png)
+![image](https://user-images.githubusercontent.com/74132232/195013955-a765cc71-1f14-4b38-acd8-1353be99d997.png)
+![image](https://user-images.githubusercontent.com/74132232/195013991-8db4b74d-1cf0-4839-886f-40b5b89e7a9c.png)
+![image](https://user-images.githubusercontent.com/74132232/195014078-365db0ae-049d-40ce-b458-127178bc4b91.png)
+![image](https://user-images.githubusercontent.com/74132232/195014105-d2c3f17c-f53c-4604-b17a-c86c7f60bfe7.png)
