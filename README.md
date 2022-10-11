@@ -22,5 +22,6 @@ Once the booking is done, the details should be stored in text file and the room
 for the selected day(s).
 GUIs should be implemented for user interactions. The system should be running continuously 
 unless an exit command is issued
+
 The program submitted should compile and be executed without errors. Besides, validation should 
 be done for each entry from the users in order to avoid logical errors.
