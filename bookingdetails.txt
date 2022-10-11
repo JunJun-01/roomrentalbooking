@@ -1,0 +1,150 @@
+Jun
+Citizen
+012332345434
+0192013233
+jun@gmail.com
+Jungle View
+J01
+2022/04/06
+2022/04/07
+RM 770
+Alvin
+Non-Citizen
+098998789098
+0198909877
+alvin@gmail.com
+Sea View
+S01
+2022/04/08
+2022/04/09
+RM 790
+Justin
+Citizen
+023223847561
+0192817566
+justin@gmail.com
+Jungle View
+J02
+2022/04/07
+2022/04/10
+RM 1540
+Samuel
+Citizen
+023223423154
+0182132322
+samuel@gmail.com
+Jungle View
+J01
+2022/04/12
+2022/04/13
+RM 770
+Dickson
+Non-Citizen
+029334543345
+0192123666
+dickson@gmail.com
+Jungle View
+J07
+2022/04/12
+2022/04/14
+RM 1185
+John
+Non-Citizen
+098998789876
+0987765666
+john@gmail.com
+Sea View
+S05
+2022/04/12
+2022/04/15
+RM 1580
+Aaron
+Non-Citizen
+096765676541
+0867875662
+aaron@gmail.com
+Sea View
+S03
+2022/04/11
+2022/04/13
+RM 1185
+Siew
+Citizen
+097665432432
+0197898900
+siew@gmail.com
+Jungle View
+J10
+2022/04/07
+2022/04/09
+RM 1155
+Tan
+Citizen
+123223432132
+0172837466
+tan@gmail.com
+Jungle View
+J09
+2022/04/12
+2022/04/13
+RM 770
+Lim
+Non-Citizen
+098009809786
+0890900090
+lim@gmail.com
+Sea View
+S01
+2022/04/12
+2022/04/15
+RM 1580
+Lai
+Citizen
+090990906545
+0234354566
+lai@gmail.com
+Sea View
+S04
+2022/04/18
+2022/04/20
+RM 1155
+Gee
+Citizen
+012112321232
+1232322344
+gee@gmail.com
+Jungle View
+J06
+2022/04/09
+2022/04/11
+RM 1155
+James
+Non-Citizen
+345667678793
+1237877988
+james@gmail.com
+Sea View
+S04
+2022/04/21
+2022/04/23
+RM 1185
+West
+Citizen
+095665456543
+5645565466
+west@gmail.com
+Sea View
+S01
+2022/04/10
+2022/04/11
+RM 770
+Daeric
+Non-Citizen
+096775676576
+6574566577
+daeric@gmail.com
+Sea View
+S02
+2022/04/09
+2022/04/11
+RM 1185
